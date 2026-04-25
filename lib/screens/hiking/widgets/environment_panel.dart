@@ -1,0 +1,1 @@
+// TODO: Implement lib/screens/hiking/widgets/environment_panel.dart

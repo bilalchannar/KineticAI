@@ -1,0 +1,1 @@
+// TODO: Implement lib/core/detection/impact_detector.dart
