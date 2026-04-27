@@ -1,1 +1,0 @@
-// TODO: Implement lib/screens/hiking/widgets/checkpoint_system.dart

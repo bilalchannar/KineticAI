@@ -1,1 +1,0 @@
-// TODO: Implement lib/core/detection/movement_detector.dart

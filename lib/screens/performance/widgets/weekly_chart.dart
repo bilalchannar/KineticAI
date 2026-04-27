@@ -1,1 +1,0 @@
-// TODO: Implement lib/screens/performance/widgets/weekly_chart.dart
